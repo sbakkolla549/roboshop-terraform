@@ -1,6 +1,6 @@
 env         = "dev"
-domain_name = "rdevopsb81.online"
-zone_id     = "Z02249652EM5BAO495DZ1"
+domain_name = "sbakkolla.online"
+zone_id     = "Z08641142SH8HBQE1FAJT"
 
 db_instances = {
   mongodb = {
